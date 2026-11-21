@@ -1,0 +1,6 @@
+/* Importe tout le système Tailwind (variables, utilitaires, reset) */
+@import "tailwindcss";
+
+/* Indique à Tailwind quels dossiers scanner pour trouver les classes utilisées */
+@source "../Views/";
+@source "../Areas/";
