@@ -1,8 +1,11 @@
-namespace eCampus.web.Models;
+using System.ComponentModel.DataAnnotations;
 
+namespace eCampus.web.Models
+{
 public class ErrorViewModel
 {
     public string? RequestId { get; set; }
 
     public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+}
 }
