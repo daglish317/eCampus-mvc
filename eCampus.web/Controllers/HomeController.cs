@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using eCampus.web.Models.EAcademie;
 using eCampus.web.Models;
 
 namespace eCampus.web.Controllers;

@@ -1,8 +1,8 @@
-using eCampus.web.Models;
+using eCampus.web.Models.EAcademie;
 
 using System.ComponentModel.DataAnnotations;
 
-namespace eCampus.web.Models
+namespace eCampus.web.Models.EAcademie
 {
 public class Semestre
 {

@@ -1,4 +1,4 @@
-using eCampus.web.Models;
+using eCampus.web.Models.EAcademie;
 using Microsoft.AspNetCore.Identity;
 
 namespace eCampus.web.Data

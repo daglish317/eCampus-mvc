@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using eCampus.web.Models;
+using eCampus.web.Models.EAcademie;
 
-namespace eCampus.web.Models
+namespace eCampus.web.Models.EAcademie
 {
 public class Inscription
 {

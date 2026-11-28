@@ -1,5 +1,5 @@
 using eCampus.web.Data;
-using eCampus.web.Models;
+using eCampus.web.Models.EAcademie;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
